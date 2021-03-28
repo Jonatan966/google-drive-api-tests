@@ -23,6 +23,20 @@ yarn dev
 http://localhost:3333
 ```
 
+## :airplane: Rotas
+Listar imagens
+```
+GET - /images
+```
+Inserir imagem
+```
+POST - /images
+```
+Deletar imagem
+```
+DELETE - /images/:id
+```
+
 ## 👽 Tecnologias
 As tecnologias principais utilizadas neste projeto são as seguintes:
 - Google Drive API
